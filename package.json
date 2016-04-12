@@ -1,6 +1,6 @@
 {
   "name": "virtual-method",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Transform data-first library function to virtual method to leverage to use function bind syntax proposal",
   "main": "bin/index",
   "scripts": {
